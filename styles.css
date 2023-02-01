@@ -1,0 +1,24 @@
+header {
+    border-bottom: 2px solid black;
+    padding: 30px 10px 15px 7px;
+}
+ul {
+    text-align: center;
+}
+li {
+    display: inline;;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+.about {
+    margin: 0 100px;
+
+}
+.box-wrapper {
+    border-style: solid;
+    border: 2px;
+    border-color: black;
+}
